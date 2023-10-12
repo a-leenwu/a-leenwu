@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## I'm Aileen, a third-year Data Science and Economics student at UC Berkeley📚
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-leenwu&theme=tokyonight)
