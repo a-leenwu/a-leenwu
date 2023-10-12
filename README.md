@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <p>Currently, I'm conducting research in behavioural economics, economic inequality, and environmental economics. I also teach data science at UC Berkeley!</p>
 
-<p>Always looking to grow as a computer scientist, data scientist, and economics researcher.</p>
+<p>Always looking to grow as a data scientist and economics researcher.</p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-leenwu&theme=tokyonight)
