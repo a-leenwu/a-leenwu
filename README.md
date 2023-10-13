@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 <p>Always looking to grow as a data scientist and economics researcher.</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=a-leenwu&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats-aileen-wus-projects.vercel.app/)
+[![Top Langs](https://github-readme-stats-aileen-wus-projects.vercel.app/api/top-langs/?username=a-leenwu)](https://github.com/a-leenwu/github-readme-stats)
