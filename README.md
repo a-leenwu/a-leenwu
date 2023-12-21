@@ -1,5 +1,7 @@
 ### Hi there 👋 I'm Aileen, a third-year Data Science and Economics student at UC Berkeley📚
 
+At Berkeley, I am a behavioural economics and environmental economics undergraduate researcher. Beyond research, I have worked on a couple software projects and am on course staff for a UC Berkeley data science course.
+
 <!--
 **a-leenwu/a-leenwu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
